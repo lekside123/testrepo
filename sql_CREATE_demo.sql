@@ -17,3 +17,5 @@ DROP TABLE `employees`.`employees2`;
 
 # Delete all data in the given table
 TRUNCATE `employees`.`employees2`;
+
+# new comment
